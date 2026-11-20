@@ -115,6 +115,20 @@ body {
                 }
             }
         }
+        .project-card{
+            border-color: rgb(26, 35, 44);
+            border-style: solid;
+            .project-preview{
+                border-radius: 5px;
+            }
+            .action-list{
+                .elt-action{
+                    border-style: solid;
+                    background-color: var(--secondary);
+                    color: var(--bg-top-section);
+                }
+            }
+        }
     }
 }
 
