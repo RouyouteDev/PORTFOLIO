@@ -79,4 +79,19 @@
             }
         }
     }
+
+    footer{
+        position: relative;
+        bottom: 0vh;
+        left: 0;
+        right: 0;
+        height: 6vh;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding: 10px 15px;
+        li{
+            list-style: none;
+        }
+    }
 }
