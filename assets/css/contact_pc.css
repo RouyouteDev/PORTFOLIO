@@ -1,0 +1,36 @@
+@media screen and (min-width: 700px){
+    header{
+        padding: 1%;
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-between;
+        p{
+            font-size: 20px;
+        }
+        svg#burgerMenu{
+            width: 6wh;
+            height: 6vh;
+        }
+    }
+    nav{
+        width: 60%;
+        ul{
+            font-size: 0; /*ON VA LE FAIRE REAPARAITRE AVEC DU JS AU CLIC*/
+        }
+    }    
+    footer{
+        position: relative;
+        bottom: 0vh;
+        left: 0;
+        right: 0;
+        height: 6vh;
+        display: flex;  
+        text-align: center;
+        justify-content: center;
+        padding: 1% 0;
+        li{
+            list-style: none;
+        }
+    }
+}
