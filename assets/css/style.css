@@ -159,6 +159,12 @@ body {
     }
 }
 
+.exp{    
+    border-bottom-style: solid;
+    border-color: gray;
+    border-width: 2px;
+}
+
 footer {
     border-top-style: solid;
     border-top-width: 2px;
