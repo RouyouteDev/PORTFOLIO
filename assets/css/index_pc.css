@@ -9,7 +9,6 @@
             font-size: 20px;
         }
         svg#burgerMenu{
-            width: 6wh;
             height: 6vh;
         }
     }
@@ -58,7 +57,7 @@
                 font-size: 1rem;
             }
             #intro-txt::after{
-                content: " Également sapeur-pompier volontaire depuis 2 ans, je combine assiduité, esprit d'équipe et curiosité technique à travers mes projets de développement et mes passions (musique, sport et informatque).";
+                content: " Également sapeur-pompier volontaire depuis 2 ans, je combine assiduité, esprit d'équipe et curiosité technique à travers mes projets de développement et mes passions (musique, sport et informatique).";
             }
             #actions-list{
                 margin-left: 0%;
