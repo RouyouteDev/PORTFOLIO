@@ -38,7 +38,7 @@ Le site reprend l'univers d'un terminal : prompts `$ cd ~/parcours`, fenêtre av
     ├── css/               # style.css + un fichier _pc et _phone par page
     ├── js/burgerMenu.js   # ouverture et fermeture du menu
     ├── imgs/              # icône, curseur, burger et aperçus des projets
-    └── doc/               # CV (PDF)
+    └── doc/               # CV (PDF), maquettes
 ```
  
 ## À venir
