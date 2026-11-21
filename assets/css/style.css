@@ -131,6 +131,26 @@ body {
         }
     }
 }
+.eltmargin {
+    border-bottom-style: solid ;
+    border-width: 3px;
+    border-color: var(--bg-top-section);
+}
+#btn-submit-form{ 
+    font-family: 'JetBrains Mono', ui-monospace, Consolas, monospace;
+    background-color: var(--secondary);
+    border-style: none;
+    border-radius: 5px;
+}
+.form-fieldset-contact{
+    input, textarea{
+        border-style: solid;
+        border-radius: 5px;
+        border-width: 2px;
+        border-color: rgb(26, 35, 44);
+        background-color: var(--bg-top-section);
+    }
+}
 
 .sections-list {
     li {

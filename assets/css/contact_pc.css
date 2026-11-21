@@ -32,6 +32,21 @@
                 grid-column: span 1;
             }
         }
+        .infos-section{
+            p{
+                margin: 2%;
+            }
+            ul{
+                margin: 5%;
+                li{
+                    margin: 1%;
+                }
+                .eltmargin {
+                    padding-bottom: 2%;
+                    margin-bottom: 3%;
+                }
+            }
+        }
         section{
             margin-right:2.5%;
             margin-left: 2.5%;
@@ -45,7 +60,8 @@
             }
             h1{
                 font-size: 1rem;
-                margin: 2% 4%;
+                margin: 0 4%;
+                margin-top: 2%;
             }
         }
         form{
@@ -58,11 +74,16 @@
                     display: none;
                 }
                 input, textarea{
+                    padding: 1%;
+                    margin: 1%;
+                }
+                button{
+                    width: 7vw;
+                    padding: 1%;
                     margin: 1%;
                 }
             }
         }
-
         #top-section{
             display: block;
             margin-top: 3%;
