@@ -1,4 +1,4 @@
-# ROUY/OUTE — Portfolio
+# ROUYOUTE — Portfolio
  
 Portfolio personnel de **Wyatt Grenier**, étudiant en Bachelor Chef de projet développement & data à [La Manu](https://lamanu.fr/) (campus d'Amiens).
  
