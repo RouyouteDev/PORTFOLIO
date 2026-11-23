@@ -117,4 +117,36 @@
             list-style: none;
         }
     }
+
+    .hero {
+        padding: 0 3%;
+
+        .hero-bar {
+            height: 70px;
+            font-size: 0.9rem;
+        }
+        .hero-nav a {
+            margin-left: 30px;
+        }
+        .hero-name {
+            font-size: 21vw;
+            margin-top: 20px;
+        }
+        .hero-bas {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin: 30px 0 40px 0;
+        }
+        .hero-sub {
+            font-size: 1.2rem;
+        }
+        .hero-actions li {
+            margin-left: 12px;
+        }
+        .hero-actions a {
+            display: block;
+            padding: 14px 22px;
+        }
+    }
 }
