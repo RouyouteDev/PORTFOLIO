@@ -218,6 +218,7 @@ footer {
     }
 
     .hero-actions {
+        z-index: 2;
         list-style: none;
         display: flex;
 
